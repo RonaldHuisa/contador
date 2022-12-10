@@ -1,0 +1,46 @@
+body{
+    background-color: #ffffcc;
+    font-family: sans-serif;
+    transition: 600ms;
+}
+
+.container{
+    margin: 50px auto;
+    background-color: #faf487;
+    width: 60%;
+    padding: 50px;
+    border-radius: 25px;
+    box-shadow: rgba(0,0,0,0.3) 5px 10px 10px;
+    text-align: center;
+}
+
+
+.container p{
+    display: inline-block;
+}
+
+.festividad{
+    padding-bottom: 10px;
+    font-size: 50px;
+}
+
+p {
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    text-shadow: rgba(0,0,0,0.5) 2px 2px 2px;;
+}
+
+
+.colores img{
+    width: 50px;
+    height: 50px;
+    padding: 0 5px;
+    transition: 200ms;
+}
+
+.colores img:hover{
+    width: 55px;
+    height: 55px;
+    padding: 0 7px;
+}

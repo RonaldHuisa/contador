@@ -1,0 +1,61 @@
+
+/*Colores*/
+
+.colores{
+    padding: 100px 0 0 0 ;
+    text-align: center;
+}
+
+.circular {
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    box-shadow: rgba(0,0,0,.1) 0 10px 10px;
+    border: 2px solid white;
+}
+
+.circular:hover{
+    opacity: 0.9;
+}
+
+.rojo {
+    background: rgb(255, 143, 143);
+}
+.verde{
+    background: rgb(155, 229, 155);
+}
+
+.amarillo {
+    background: rgb(255, 240, 153);
+}
+
+.azul {
+    background: rgb(153, 214, 229);
+}
+
+.morado{
+    background: rgb(212, 155, 229);
+}
+
+
+/*Footer*/
+
+img {
+    width: 35px;
+    height: 35px;
+    padding: 0 5px;
+    transition: 200ms;
+}
+
+img:hover{
+    width: 40px;
+    height: 40px;
+    padding: 0 7px;
+}
+
+
+footer {
+    text-align: center;
+    color: white;
+    font-size: 13px;
+}
