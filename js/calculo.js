@@ -16,8 +16,8 @@ function cambiar_fondo(value){
         break;
         case "12/25":
             document.getElementById("festividad").innerHTML = "Navidad";
-            document.body.style.background = "#c2fcc9";
-            document.getElementById("container").style.background = "#93faa0";
+            document.body.style.background = "#c2ffea";
+            document.getElementById("container").style.background = "#85deaa";
         break;
         case "12/31":
             document.getElementById("festividad").innerHTML = "Año Nuevo";
